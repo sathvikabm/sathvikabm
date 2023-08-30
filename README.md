@@ -2,14 +2,13 @@
 <h3 align="center">Currently pursuing Master's in Computer Science at New York University, Courant</h3>
 <h3 align="center">Looking for Fulltime opportunities from May 2024</h3>
 
-
-<img align="right" width="400" src="https://media.tenor.com/nxMxbORTz-UAAAAM/bitrix24-bitrix24office.gif">
+<img align="right" width="400" src="./Profile.jpeg">
 
 - 📫 How to reach me **sb8913@nyu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sathvika-b-m-14aa02132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathvika-b-m-14aa02132/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sathvika-b-m-14aa02132/" target="blank"><img align="center" alt="https://www.linkedin.com/in/sathvika-b-m-14aa02132/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

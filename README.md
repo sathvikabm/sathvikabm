@@ -2,7 +2,7 @@
 <h3 align="center">Currently pursuing Master's in Computer Science at New York University, Courant</h3>
 <h3 align="center">Looking for Fulltime opportunities from May 2024</h3>
 
-<img align="right" width="400" src="./Profile.jpeg">
+<img align="right" width="250" src="./Profile.jpeg">
 
 - 📫 How to reach me **sb8913@nyu.edu**
 

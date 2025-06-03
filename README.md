@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathvika</h1>
 <h3 align="center">Currently pursuing Master's in Computer Science at New York University, Courant</h3>
-<h3 align="center">Looking for Fulltime opportunities from May 2024</h3>
 
 <img align="right" width="250" src="./Profile.jpeg">
 

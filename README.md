@@ -16,7 +16,8 @@
 
 ## 🔭 &nbsp; What I Work On
 Hii, Im Sathvika
-I work on the infrastructure layer — building and operating resilient **cloud environments** with a focus on disaster recovery, high availability, and workload orchestration. My day-to-day involves Deployments on cloud, Resource monitoring and troubleshoot, Kubernetes cluster management.
+
+My work involves Infrastructure layer — building and operating **cloud environments** with a focus on disaster recovery, high availability, and workload orchestration. My day-to-day involves Deployments on cloud, Resource monitoring and troubleshoot, Kubernetes cluster management.
 
 ---
 
@@ -92,9 +93,9 @@ Exploring architectures for running distributed inference workloads across GPU c
 
 ## 🌐 &nbsp; Community & Conferences
 
-OPEN COMPUTE PROJECT
-ACM HPC SIG
-SCALE@NETWORKING
+-> OPEN COMPUTE PROJECT
+-> ACM HPC SIG
+-> SCALE@NETWORKING
 
 ---
 

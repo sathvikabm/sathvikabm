@@ -16,7 +16,7 @@
 
 ## 🔭 &nbsp; What I Work On
 Hii, Im Sathvika
-I work on the infrastructure layer — building and operating resilient **cloud environments** with a focus on disaster recovery, high availability, and workload orchestration. My day-to-day involves Deployments on cloud, Resource monitoring and troubleshoot, Kubernetes cluster management, container lifecycle operations.
+I work on the infrastructure layer — building and operating resilient **cloud environments** with a focus on disaster recovery, high availability, and workload orchestration. My day-to-day involves Deployments on cloud, Resource monitoring and troubleshoot, Kubernetes cluster management.
 
 ---
 
@@ -67,24 +67,11 @@ Exploring architectures for running distributed inference workloads across GPU c
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HPC](https://img.shields.io/badge/HPC-FF6B6B?style=for-the-badge&logoColor=white)
-![Data Center](https://img.shields.io/badge/Data%20Center-4A4A4A?style=for-the-badge&logoColor=white)
 
 ### Automation & IaC
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 </div>
 
@@ -105,13 +92,9 @@ Exploring architectures for running distributed inference workloads across GPU c
 
 ## 🌐 &nbsp; Community & Conferences
 
-<div align="center">
-
-![OCP](https://img.shields.io/badge/Open%20Compute%20Project-0066CC?style=for-the-badge&logoColor=white)
-&nbsp;&nbsp;
-![Scale@Meta](https://img.shields.io/badge/Scale%40Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-
-</div>
+OPEN COMPUTE PROJECT
+ACM HPC SIG
+SCALE@NETWORKING
 
 ---
 

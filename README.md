@@ -29,14 +29,14 @@ My work involves Infrastructure layer — building and operating **cloud environ
 
 **⚡ L40 GPU Kubernetes Cluster**
 
-Deployed a Kubernetes cluster on L40 GPUs — end to end. Covered master/worker node provisioning, networking, and live monitoring of containerized workloads running on the cluster.
+Deployed a Kubernetes cluster on L40 GPUs — end to end. Covered master/worker node provisioning, networking, and monitoring of containerized workloads running on the cluster.
 
 </td>
 <td width="50%">
 
 **🍓 Raspberry Pi Kubernetes Cluster**
 
-Built a bare-metal Kubernetes cluster on Raspberry Pi hardware. A ground-up exercise in node orchestration, networking, and resource-constrained workload management.
+Built a bare-metal Kubernetes cluster on Raspberry Pi hardware - node orchestration, networking, and resource-constrained workload management.
 
 </td>
 </tr>
@@ -45,14 +45,14 @@ Built a bare-metal Kubernetes cluster on Raspberry Pi hardware. A ground-up exer
 
 **🤖 Jetson + Spark Edge Pipeline**
 
-Containerized ML models on NVIDIA Jetson and built a socket-based communication layer between Jetson devices and Apache Spark — bridging edge inference with distributed data processing.
+Containerized ML models on Jetson and built a socket-based communication between Jetson and Spark — bridging edge inference and hetero communication.
 
 </td>
 <td width="50%">
 
 **🧮 GPU Distributed Inference Stack**
 
-Exploring architectures for running distributed inference workloads across GPU clusters, with a focus on efficient scheduling, memory management, and inter-node communication. Im learning abt KV Cache and communication on GPU's -  to be able to do distributed inference.
+Exploring architectures for running distributed inference workloads across GPU clusters, Im learning abt KV Cache and communication on GPU's -  to be able to do distributed inference.
 
 </td>
 </tr>

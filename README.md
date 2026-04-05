@@ -1,39 +1,122 @@
-<h1 align="center">Hi 👋, I'm Sathvika</h1>
-<h3 align="center">Currently pursuing Master's in Computer Science at New York University, Courant</h3>
+<div align="center">
 
-<img align="right" width="250" src="./Profile.jpeg">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=200&section=header&text=Sathvika&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Infrastructure%20Enthusiast&descAlignY=58&descColor=ffffff&descSize=22" width="100%"/>
 
-- 📫 How to reach me **sb8913@nyu.edu**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sathvika-b-m-14aa02132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sathvika-b-m-14aa02132/" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a>
-<a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg" alt="ocaml" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg" alt="plotly" width="40" height="40"/> </a>
-<a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ethereum/web3.js/1.x/assets/logo/web3js.jpg" alt="web3" width="40" height="40"/> </a>
-<a href="https://www.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/> </a>
-<!-- More links and icons as per your requirements -->
-</p>
+<br/>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Infrastructure+Enthusiast;Cloud+%26+Distributed+Systems;GPU+%2F+Edge+%2F+Data+Center;Kubernetes+%7C+HPC+%7C+MLOps)
+
+</div>
+
+---
+
+## 🔭 &nbsp; What I Work On
+Hii, Im Sathvika
+I work on the infrastructure layer — building and operating resilient **cloud environments** with a focus on disaster recovery, high availability, and workload orchestration. My day-to-day involves Deployments on cloud, Resource monitoring and troubleshoot, Kubernetes cluster management, container lifecycle operations.
+
+---
+
+## 🚀 &nbsp; Projects & Builds
+
+<table>
+<tr>
+<td width="50%">
+
+**⚡ L40 GPU Kubernetes Cluster**
+
+Deployed a Kubernetes cluster on L40 GPUs — end to end. Covered master/worker node provisioning, networking, and live monitoring of containerized workloads running on the cluster.
+
+</td>
+<td width="50%">
+
+**🍓 Raspberry Pi Kubernetes Cluster**
+
+Built a bare-metal Kubernetes cluster on Raspberry Pi hardware. A ground-up exercise in node orchestration, networking, and resource-constrained workload management.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤖 Jetson + Spark Edge Pipeline**
+
+Containerized ML models on NVIDIA Jetson and built a socket-based communication layer between Jetson devices and Apache Spark — bridging edge inference with distributed data processing.
+
+</td>
+<td width="50%">
+
+**🧮 GPU Distributed Inference Stack**
+
+Exploring architectures for running distributed inference workloads across GPU clusters, with a focus on efficient scheduling, memory management, and inter-node communication. Im learning abt KV Cache and communication on GPU's -  to be able to do distributed inference.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ &nbsp; Skills & Tools
+
+<div align="center">
+
+### Infrastructure & Orchestration
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HPC](https://img.shields.io/badge/HPC-FF6B6B?style=for-the-badge&logoColor=white)
+![Data Center](https://img.shields.io/badge/Data%20Center-4A4A4A?style=for-the-badge&logoColor=white)
+
+### Automation & IaC
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 &nbsp; Certifications
+
+<div align="center">
+
+| &nbsp; | Certification |
+|:---:|:---|
+| 🔷 | **Microsoft Certified** — Azure Administrator Associate (AZ-104) |
+| 🟢 | **NVIDIA Certified** — AI Infrastructure and Operations |
+
+</div>
+
+---
+
+## 🌐 &nbsp; Community & Conferences
+
+<div align="center">
+
+![OCP](https://img.shields.io/badge/Open%20Compute%20Project-0066CC?style=for-the-badge&logoColor=white)
+&nbsp;&nbsp;
+![Scale@Meta](https://img.shields.io/badge/Scale%40Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" width="100%"/>
+
+</div>

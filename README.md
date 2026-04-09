@@ -17,8 +17,6 @@
 ## 🔭 &nbsp; What I Work On
 Hii, Im Sathvika
 
-My work involves Infrastructure layer — building and operating **cloud environments** with a focus on disaster recovery, high availability, and workload orchestration, Resource monitoring and troubleshoot, Kubernetes cluster management.
-
 ---
 
 ## 🚀 &nbsp; Projects & Builds
